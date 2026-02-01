@@ -3,5 +3,6 @@ using namespace std;
 
 int main() {
     cout << "Hello, World!" << endl;
+    cout << "This is my first Git project!" << endl;  // додай цей рядок
     return 0;
 }
